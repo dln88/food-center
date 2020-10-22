@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Highlands Coffee",
+        "type": "Café/Dessert",
+        "img": "http://www.brandsvietnam.com/img/2012/HighlandsCoffee1-ID522.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Gong Cha",
+        "type": "Café/Dessert",
+        "img": "https://www.worldofbuzz.com/wp-content/uploads/2017/05/all-80-gong-cha-outlets-will-be-shut-down-to-be-replaced-with-liho-in-singapore-world-of-buzz.png"
+    },
+    {
+        "id": 3,
+        "name": "Share Tea",
+        "type": "Café/Dessert",
+        "img": "https://media-cdn.tripadvisor.com/media/photo-s/08/23/49/ac/share-tea.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Royal Tea",
+        "type": "Café/Dessert",
+        "img": "https://images.foody.vn/res/g32/316219/s/foody-royaltea-tra-sua-hong-kong-696-636189187112591811.jpg"
+    },
+
+    {
+        "id": 5,
+        "name": "Tokyo BBQ",
+        "type": "Food",
+        "img": "https://onedanang.vn/Content/UserUploads/Images/Locations/4/medium_ava%20web%20pho%20nuong.png"
+    },
+    {
+        "id": 6,
+        "name": "Thai Market",
+        "type": "Food",
+        "img": "http://thaimarket.vn/wp-content/uploads/2018/09/%E1%BA%A3nh-3.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Gogi House",
+        "type": "Food",
+        "img": "https://media-cdn.tripadvisor.com/media/photo-s/0d/39/95/5a/gogi-house-vincom-plaza.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Cơm niêu nhà đỏ",
+        "type": "Food",
+        "img": "https://sites.google.com/site/comnieunhadotaidanang/_/rsrc/1480500298306/config/customLogo.gif?revision=3"
+    }
+]

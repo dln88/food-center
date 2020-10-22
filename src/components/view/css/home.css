@@ -1,0 +1,43 @@
+.carousel-inner img {
+    width: 100%;
+    height: 466px;
+}
+.jumbotron { margin: 20px 0; padding:50px 40px}
+i { 
+    /* color: #69E781 */
+    color: #0ead2c;
+}
+.card-body {
+    padding-left: 0;
+    padding-right: 0;
+}
+.card-img-top {margin-top: 10px; height: 140px;}
+a:hover {text-decoration: none;}
+
+footer {
+    /* background: url(https://mobirise.com/bootstrap-4-theme/assets/images/jumbotron.jpg) top center; */
+    /* background: url(https://bit.ly/2Rd6cE5) center; */
+    /* https://bit.ly/2P4BXxt     https://bit.ly/2ztBsIb */
+    background: url(https://bit.ly/2PZPcF2) center;
+    background-size: cover;
+    /* margin-top: 2em; */
+    padding: 2em 0;
+    
+}
+footer li {
+    color: aliceblue;
+    font-weight: bold;
+    font-family:  sans-serif;
+    padding: 0 10px;
+
+}
+footer li:hover{
+    cursor: pointer;
+    color: #e8f3ebc2;
+}
+footer li i{
+    color:#e8f3ebc2; 
+}
+footer li i:hover{
+    color:aliceblue; 
+}

@@ -1,0 +1,45 @@
+/* body{
+	float: left;
+	width: 100%;
+	height: 100%;
+} */
+#welcome {
+    font-family: 'Pacifico', cursive;
+    font-size: 55px;
+    color: #33af6d;
+}
+
+#brand-name{
+	font-family: 'Bungee Inline', cursive;
+	letter-spacing: 5px;
+}
+
+#about-started{
+    font-family: 'Niconne', cursive;
+    font-size: 25px;
+}
+
+.background{
+	background: url(https://images.pexels.com/photos/349608/pexels-photo-349608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) center;
+	background-size: cover;
+	/* float: left;
+	width: 100%;
+	height: 100%; */
+/*	padding: 3.3em 0;
+	height: 100%; */
+	height: 100%;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	min-height: 100%;
+}
+
+.wrap-p{
+	background-color: #0000007a;
+    color: white;
+}
+
+#profile-form label{
+	font-family:  'Niconne', cursive;
+	font-size: x-large;
+}

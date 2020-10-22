@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name":"Highlands Coffee",
+        "address":"46 Điện Biên Phủ",
+        "brandId":1,
+        "img":"https://lh5.googleusercontent.com/p/AF1QipORS8ixPUxzN-Ig56lOYwtoDEn1u_0CeTpZMePm=w260-h175-n-k-no"
+    },
+    {
+        "id":2,
+        "name":"Highlands Cofee Riverside",
+        "address":"186 Bạch Đằng",
+        "brandId":1,
+        "img":"https://lh5.googleusercontent.com/p/AF1QipM3f1vb9FkP9hAAyqybh1FNdjdsvQVISqhxvgX1=w260-h175-n-k-no"
+    },
+    {
+        "id":3,
+        "name":"Highlands Coffee",
+        "address":"74 Bạch Đằng",
+        "brandId":1,
+        "img":"https://lh5.googleusercontent.com/p/AF1QipNMEUd4OmzW57MOMEhmoVKQodkKV-fqbVD7Reql=w260-h175-n-k-no"
+    },
+    {
+        "id":4,
+        "name":"Highlands Coffee",
+        "address":"1 Nguyễn Văn Linh",
+        "brandId":1,
+        "img":"https://lh5.googleusercontent.com/p/AF1QipPYjP2HOvzglQDEArnsS8b5VwinXAxZKZa5s1rD=w260-h175-n-k-no"
+    },
+    {
+        "id":5,
+        "name":"Trà sữa Gong Cha Đà Nẵng",
+        "address":"25 Nguyễn Văn Linh",
+        "brandId":2,
+        "img":"https://lh5.googleusercontent.com/p/AF1QipNFXWaQyYsWLXJH88-jxrx_KIJOQsGWHkfmCpqA=w260-h175-n-k-no"
+    },
+    {
+        "id":6,
+        "name":"Share Tea Đà Nẵng",
+        "address":"28 Bạch Đằng",
+        "brandId":3,
+        "img":"https://lh5.googleusercontent.com/p/AF1QipPlatEToOrChCfnEUC_FJDXDyP_a10Fh9sw9goM=w260-h175-n-k-no"
+    }
+]

@@ -1,0 +1,189 @@
+#menutop-welcome {
+    font-family: 'Pacifico', cursive;
+    font-size: 18px;
+    color: forestgreen;
+}
+#user-fullname{
+    color: #0ead2c;
+    font-family: Segoe UI;
+}
+.user-ico{
+    border: 1px solid;
+    padding: 6px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.user-ico:hover{
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 455px;
+}
+.jumbotron { margin: 20px 0; padding:50px 40px}
+i { 
+    /* color: #69E781 */
+    color: #0ead2c;
+}
+.card-home{
+    background-color: #d1f3acd9; 
+    border:0.5px solid #8BC34A;
+
+    /* background-color: #7ae872d9; 
+    border: #3eb347fc; */
+}
+.card-body {
+    padding-left: 0;
+    padding-right: 0;
+}
+#brand-card .card-img-top {margin-top: 10px; height: 140px;}
+a:hover {text-decoration: none;}
+
+#store-card .card-img-top {margin-top: 10px; height: 180px;}
+#brand-detail-info h3{
+    color: white;
+    text-shadow:rgb(15, 226, 12) 2px 2px 10px;
+    letter-spacing: 3px;
+    /* animation:3s space-incrising infinite; */
+}
+@keyframes space-incrising {
+    0% {letter-spacing: 3px;}
+    50% {letter-spacing: 6px;}
+    100% {letter-spacing: 3px;}
+}
+
+#brand-detail-info p{
+    animation: 10s flicker infinite;
+}
+@keyframes flicker {
+    0% {
+        text-shadow:none;
+        /* letter-spacing: 0px; */
+    }
+    20% {
+        color:rgb(233, 45, 45);
+        text-shadow:rgb(226, 12, 12) 2px 2px 10px;
+    }
+    40% {
+        color:rgb(216, 219, 19);
+        text-shadow:rgb(222, 226, 12) 2px 2px 10px;
+    }  
+    80% {
+        color:rgb(15, 211, 12);
+        text-shadow:rgb(15, 226, 12) 2px 2px 10px;
+        /* letter-spacing: 3px; */
+        /* font-size: 20px; */
+    }
+}
+.border-style {
+    border-radius:6px;
+    border: 2px dotted #0ead2c;
+    border: 2px dotted #10d435;
+
+}
+footer {
+    /* background: url(https://mobirise.com/bootstrap-4-theme/assets/images/jumbotron.jpg) top center; */
+    /* background: url(https://bit.ly/2Rd6cE5) center; */
+    /* https://bit.ly/2P4BXxt     https://bit.ly/2ztBsIb */
+    background: url(../img/footer-green/footer5.jpg) center; 
+    background-size: cover;
+    /* margin-top: 2em; */
+    padding: 2em 0;
+    
+}
+footer li {
+    color: aliceblue;
+    font-weight: bold;
+    font-family:  sans-serif;
+    padding: 0 10px;
+
+}
+footer li:hover{
+    cursor: pointer;
+    color: #e8f3ebc2;
+}
+footer li i{
+    color:#e8f3ebc2; 
+}
+footer li i:hover{
+    color:aliceblue; 
+}
+
+#dish-card:hover { box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;}
+#brand-card p{font-family: 'Niconne', cursive; font-size: 25px}
+
+.comment{
+    background-color: ghostwhite;
+    background-color: #b8dade;
+    border-radius: 6px;
+
+}
+.cmt-user-name{
+    padding: 4px;
+    color: #2525b5cf;
+    background-color: skyblue;
+    border-radius: 8px;
+    font-weight: bold;
+}
+/* comment style */
+.comment-content {
+    position: relative;
+    margin-left: 100px;
+    /* background-color: #795548; */
+    /* width: 100%; */
+    /* height: 30px; */
+    border-radius: 6px;
+}
+.comment-arrow {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    z-index: 1;
+    background-color: cornflowerblue;
+    transform: rotate(45deg);
+    top: 8px;
+    left: -7px;
+}
+.comment-text {
+    position: absolute;
+    border-radius: 6px;
+    padding: 14px 15px;
+    background-color: cornflowerblue;
+    z-index: 2;
+}
+/* button add */
+#btn-add{
+    font-size: 55px;
+    float: right;
+    margin-bottom: 5%;
+    /* box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important; */
+}
+#btn-add:hover{
+    
+    transition: 0.8s transform;
+    transform: rotate(360deg);   
+}
+.dropdown-add-cus{
+    margin-right: 20%;
+    border: 1px solid #0ead2c;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
+/* dish */
+.dish-name{
+    font-weight: bold;
+    font-family: segoe ui light;
+    font-size: 22px;
+}
+.dish-state{
+    border-radius: 6px;
+}
+/* .dropdown .dropdown-menu{
+    display: block; 
+  opacity:0;
+-webkit-transition: all 200ms ease-in;
+-moz-transition: all 200ms ease-in;
+-ms-transition: all 200ms ease-in;
+-o-transition: all 200ms ease-in;
+transition: all 200ms ease-in;
+} */
